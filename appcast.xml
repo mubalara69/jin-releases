@@ -4,21 +4,22 @@
         <title>Jin Updates</title>
         <link>https://raw.githubusercontent.com/mubalara69/jin-releases/main/appcast.xml</link>
         <description>Most recent changes with links to updates.</description>
+        <language>en</language>
         <item>
-            <title>Version 1.14.6</title>
+            <title>Version 1.14.10</title>
             <description><![CDATA[
-                <h2>Jin v1.14.6</h2>
+                <h2>Jin v1.14.10</h2>
                 <ul>
-                    <li>Initial release with Sparkle auto-update support</li>
+                    <li>Latest release</li>
                 </ul>
             ]]></description>
-            <pubDate>Sun, 23 Mar 2026 09:00:00 +0800</pubDate>
-            <sparkle:version>1 (Sparkle Integration)</sparkle:version>
-            <sparkle:shortVersionString>1.14.6</sparkle:shortVersionString>
+            <pubDate>Mon, 23 Mar 2026 19:08:33 +0800</pubDate>
+            <sparkle:version>1 (Sub Tasks with User Guide)</sparkle:version>
+            <sparkle:shortVersionString>1.14.10</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mubalara69/jin-releases/releases/download/v1.14.6/Jin-1.14.6.dmg"
-                       sparkle:edSignature="0sRfdg33Qs47oSrR0tqWSUAJ2T8HVQy1Tg8O8b0rMOvFQSJfdF9QfC9OD3/oRNDIERU3tChNZykco0wtEE0MAA=="
-                       length="34687450"
+            <enclosure url="https://github.com/mubalara69/jin-releases/releases/download/v1.14.10/Jin-1.14.10.dmg"
+                       sparkle:edSignature="QmE4en2J4DerLTjyKHHXV/JKjz1rDcXN6SZFwYDHwIPuGldyaxXqM6kxv9VMMkiCiPwDCp8Si0WAHd8oP97qBg=="
+                       length="35155623"
                        type="application/octet-stream"/>
         </item>
     </channel>
