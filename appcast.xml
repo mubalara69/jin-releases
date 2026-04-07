@@ -6,20 +6,20 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 1.19.1</title>
+            <title>Version 1.19.5</title>
             <description><![CDATA[
-                <h2>Jin v1.19.1</h2>
+                <h2>Jin v1.19.5</h2>
                 <ul>
                     <li>Latest release</li>
                 </ul>
             ]]></description>
-            <pubDate>Mon, 06 Apr 2026 19:13:08 +0800</pubDate>
-            <sparkle:version>1.19.1</sparkle:version>
-            <sparkle:shortVersionString>1.19.1</sparkle:shortVersionString>
+            <pubDate>Tue, 07 Apr 2026 13:52:43 +0800</pubDate>
+            <sparkle:version>1.19.5</sparkle:version>
+            <sparkle:shortVersionString>1.19.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/mubalara69/jin-releases/releases/download/v1.19.1/Jin-1.19.1.dmg"
-                       sparkle:edSignature="4+vFnriDOv5RY3Gr71KgJEH2k+Sf/WO6umbYv0MBqxznpb7nYjcTGA2cREh3NF59l6L7DRHiuT9ZyJ7DaMHFAQ=="
-                       length="41960624"
+            <enclosure url="https://github.com/mubalara69/jin-releases/releases/download/v1.19.5/Jin-1.19.5.dmg"
+                       sparkle:edSignature="nX1d6b14CVEnU35SqNfn4up2M/vAKELVw4OiEwDSORJ9ITK8DMrlUkFz+1pFscHktJprD/2i7Fftvkcf9cWEAg=="
+                       length="42456005"
                        type="application/octet-stream"/>
         </item>
     </channel>
